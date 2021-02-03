@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1053190612433",
+    "firebase_url": "https://crudex1-ff72b.firebaseio.com",
+    "project_id": "crudex1-ff72b",
+    "storage_bucket": "crudex1-ff72b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053190612433:android:e7d25e697ba8dea3",
+        "android_client_info": {
+          "package_name": "com.mylesrobert.crud1_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053190612433-4q6o15f7cptpupoqvjlcbr6f1dbukgab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN63dBUVepk8ExeIOvr1yT0dPYP-pX47k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053190612433-4q6o15f7cptpupoqvjlcbr6f1dbukgab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
